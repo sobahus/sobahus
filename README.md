@@ -13,14 +13,14 @@ I USE <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.
 <p align="left">
 <a href="https://www.linkedin.com/in/sobahusniam/"><img src="https://img.shields.io/badge/sobahusniam-LinkedIn-blue?style=flat&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/sobahusn27/"><img src="https://img.shields.io/badge/sobahusn27-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sobahusn.my.id"</a><img src="https://img.shields.io/badge/sobahusn.my.id-171717" alt="Website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sobahusn.my.id"</a><img src="https://img.shields.io/badge/niam.my.id-171717" alt="Website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- GAK FOMO2 AN
+
 #### Tech Stack :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="30"/>
 </p>
--->
+
