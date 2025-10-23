@@ -1,5 +1,7 @@
 # Hello! 👋🏻 I'am Ni'am 
-A student from SMK Walisongo 2 Gempol majoring in Computer Network Engineering, Although I am an ordinary person, I want to be an expert in the IT field, especially in Programming. My dream is to become a Full Stack Developer.
+Informatics Engineering Student at the University Muhammadiyah Sidoarjo, with a vocational school graduate background majoring in Computer and Network Engineering.
+
+Currently I am focused on developing my interest in the Web field Developers, especially in Front-End Developers, and Cyber Security, I continue to develop my interests and intentions in the field So, I'm sure I can develop in the world of technology at this time this.
 
 Just an Ordinary Man 👤
 
