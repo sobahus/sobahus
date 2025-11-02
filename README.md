@@ -21,9 +21,10 @@ I USE <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.
 
 </p>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sobahus&show_icons=true&locale=en" alt="sobahus" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobahus&show_icons=true&locale=en&layout=compact" alt="sobahus" />
-</p>
+<div align="left" style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sobahus&show_icons=true&locale=en" alt="sobahus" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sobahus&show_icons=true&locale=en&layout=compact" alt="sobahus" height="150"/>
+</div>
+
 
 
