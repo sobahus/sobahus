@@ -7,13 +7,6 @@ Just an Ordinary Man 👤, I'am Not ROBOT
 
 I USE <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="ArchLinux" width="60"> BTW :v
 
-### ✉️ Let's Connect :
-<p align="left">
-<a href="https://www.linkedin.com/in/sobahus-niam/"><img src="https://img.shields.io/badge/sobahus-LinkedIn-blue?style=flat&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sobahusn27/"><img src="https://img.shields.io/badge/sobahusn27-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
 ### 🌟 Tech Stack
 
 <p align="left">
@@ -28,6 +21,9 @@ I USE <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sobahus&show_icons=true&locale=en" alt="sobahus" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobahus&show_icons=true&locale=en&layout=compact" alt="sobahus" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sobahus&show_icons=true&locale=en" alt="sobahus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobahus&show_icons=true&locale=en&layout=compact" alt="sobahus" />
+</p>
+
 
